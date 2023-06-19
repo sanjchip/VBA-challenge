@@ -30,8 +30,9 @@ Below are the screenshots and results from the VBA script.
 
 
 Results as expected:
+![image](https://github.com/sanjchip/VBA-challenge/assets/134953074/98f0b0c8-b8b6-442a-b2c8-a3a71e3ac049)
 
-![image](https://github.com/sanjchip/VBA-challenge/assets/134953074/128d1b79-9d86-4f30-9f4c-61360026191c)
+
 
 
 
