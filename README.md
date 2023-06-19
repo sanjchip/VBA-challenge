@@ -18,4 +18,13 @@
 
 
 5 Functionality to the script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume"
-![image](https://github.com/sanjchip/VBA-challenge/assets/134953074/a583d43d-6f92-41aa-80c0-7c1b4892b1d6)
+![image](https://github.com/sanjchip/VBA-challenge/assets/134953074/7101d515-f47c-4066-bb19-39c88b234f61)
+
+
+Results as expected:
+
+![image](https://github.com/sanjchip/VBA-challenge/assets/134953074/128d1b79-9d86-4f30-9f4c-61360026191c)
+
+
+
+
