@@ -1,6 +1,7 @@
 # Stock Challenge VBA
 
 1 The ticker symbol
+
 ![image](https://github.com/sanjchip/VBA-challenge/assets/134953074/eb8fd930-078c-4399-8908-7b7af2f92d07)
 
 
