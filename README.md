@@ -1,5 +1,13 @@
 # Stock Challenge VBA
 
+
+We had to create a script that loops through all the stocks for one year and outputs the below information
+- the VBA script needs to be adjusted to enable it to run on every worksheet at once
+
+Below are the screenshots and results from the VBA script. 
+
+
+
 1 The ticker symbol
 
 ![image](https://github.com/sanjchip/VBA-challenge/assets/134953074/eb8fd930-078c-4399-8908-7b7af2f92d07)
